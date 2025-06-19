@@ -55,3 +55,48 @@ A user-friendly design is crucial for a booking platform. It reduces friction, i
 ### Importance of User-Friendly Design
 A user-friendly design is crucial for a booking platform. It reduces friction, increases user satisfaction, and boosts conversion rates. Users should feel confident and comfortable throughout their journey—from browsing to booking. Clean navigation, accessible interfaces, and responsive layouts are key to creating a seamless experience across all devices.
 
+## Project Roles and Responsibilities
+
+Clear role definitions are essential for efficient collaboration, accountability, and project success. Below are the key roles involved in this project and their responsibilities:
+
+### 📋 Project Manager
+- Oversees the overall project timeline and deliverables.
+- Coordinates communication among all team members.
+- Ensures the project stays on track, within scope, and meets deadlines.
+
+### 🎨 Designers
+- Create high-fidelity mockups and user flows using Figma.
+- Maintain visual consistency and branding across all pages.
+- Ensure the UI meets accessibility and usability standards.
+
+### 💻 Frontend Developers
+- Implement the UI using HTML, CSS, and JavaScript (React).
+- Develop reusable, responsive components based on design specs.
+- Integrate with backend APIs and manage client-side state.
+
+### 🛠️ Backend Developers
+- Design and develop RESTful APIs and server-side logic.
+- Manage database schema, models, and business rules.
+- Ensure secure data handling and performance optimization.
+
+### ✅ QA/Testers
+- Write unit, integration, and end-to-end test cases.
+- Perform manual and automated testing across devices and browsers.
+- Identify, report, and verify bug fixes and functionality.
+
+### 🚀 DevOps Engineers
+- Set up and maintain deployment pipelines and server infrastructure.
+- Ensure CI/CD processes are efficient and reliable.
+- Monitor application performance and uptime.
+
+### 🎯 Product Owner
+- Define and prioritize the product requirements and features.
+- Act as the voice of the customer and stakeholders.
+- Make decisions on scope, priorities, and acceptance criteria.
+
+### 🧭 Scrum Master
+- Facilitate agile ceremonies such as daily stand-ups and retrospectives.
+- Help remove blockers and improve team productivity.
+- Ensure the team adheres to agile principles and timelines.
+
+
