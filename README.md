@@ -99,4 +99,34 @@ Clear role definitions are essential for efficient collaboration, accountability
 - Help remove blockers and improve team productivity.
 - Ensure the team adheres to agile principles and timelines.
 
+## UI Component Patterns
+
+To ensure a modular and maintainable frontend architecture, the application will use reusable and consistent UI components. Below are the primary components planned for the project:
+
+### 🔝 Navbar
+- Displays the application logo and brand identity.
+- Contains a search bar for quick property lookups.
+- Includes user navigation (e.g., Sign In, Bookings, Profile).
+- Responsive design with a collapsible menu for mobile devices.
+
+### 🏠 Property Card
+- Shows property image, title, location, price per night, and rating.
+- Includes a favorite (heart) button for saving listings.
+- Clickable to navigate to the detailed property view.
+- Optimized for both grid and list layouts.
+
+### 🔚 Footer
+- Contains links to important pages (e.g., About, Terms, Contact).
+- Displays social media icons and external links.
+- Shows copyright information.
+- Fully responsive and accessible.
+
+Each component will be designed with:
+- **Reusability:** Modular design to allow usage across multiple pages.
+- **Responsiveness:** Mobile-first layout support.
+- **Consistency:** Follows a unified design system based on Figma specs.
+
+More components will be added as the project evolves, ensuring a scalable UI foundation.
+
+
 
